@@ -6,7 +6,7 @@ This is a Student service ASP.NET project demonstrating CRUD operations with a S
 ## Setup
 1. Clone the repository to your local machine.
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/ahmad-1366/SE-Project.git
 2.Open the solution file (Website1.sln) in Visual Studio.
 3.Modify the Web.config file to include your SQL Server connection string.
 Replace ConnectionString with your SQL Server connection string.
